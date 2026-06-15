@@ -16,7 +16,7 @@ Trained on **Kaggle T4×2 (30GB VRAM)** with TensorFlow + mixed precision. Optim
 
 ## 📥 Model Download (Important)
 
-The trained model is **~180 MB**, so it is available via **GitHub Releases**:
+The trained model is **~172 MB**, so it is available via **GitHub Releases**:
 
 ### → **[Download Latest Release](https://github.com/aayushraman07/mangrove-segmentation/releases)**
 
