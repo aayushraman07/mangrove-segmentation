@@ -7,7 +7,7 @@ This project implements a highly optimized, RAM-flat streaming data generator de
 ---
 ## 📥 Model Download
 
-The trained model (`mangrove_v6.keras` ~172 MB) is available via:
+The trained model (`mangrove_v6.keras` ~180 MB) is available via:
 
 ### Option 1: GitHub Releases (Recommended)
 → [Download Latest Release](https://github.com/aayushraman07/mangrove-segmentation/releases)
